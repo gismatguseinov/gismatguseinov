@@ -5,9 +5,9 @@
      src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611053e7cbeceac7ab844eca141a0e5ac69b856146a&rid=giphy.gif&ct=g">
 
 
-- 🌱 I’m currently learning **PostgreSql** and **Node.js **
+- 🌱 I’m currently learning **PostgreSql** and **Node.js**
 
-- 👯 I’m looking to collaborate with **PostgreSql** and **Node.js ** Developers
+- 👯 I’m looking to collaborate with **PostgreSql** and **Node.js** Developers
 
 - 📫 How to reach me **gismathusein@gmail.com**
 
