@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gismat Guseinov</h1>
 <h3 align="center">I'm a Middle Software and Junior Database Developer</h3>
 
-<img align="right" alt="Gismat Coding" width="400"
-     src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611053e7cbeceac7ab844eca141a0e5ac69b856146a&rid=giphy.gif&ct=g">
 
+
+<p align="center">
+ <img style="float:left"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400"/>
+</p>
 
 - 🌱 I’m currently learning **PostgreSql** and **Node.js**
 
@@ -13,6 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/gismat-huseynov-79aaa9176/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gismat-huseynov-79aaa9176/" height="30" width="40"/></a><a href="https://stackoverflow.com/users/14853869/gismat-husein" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"alt="14834383" height="30"width="40"/></a></p>
+<a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsmat&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+        </a>
+        <a href="https://github.com/m0rp43us">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmat&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+        </a>
+     
+
 
 <h3 align="left">Languages and Tools:</h3><br>
 <p align="left">
@@ -54,8 +64,5 @@
             alt="javascript" width="40" height="40"/> </a>
 </p>
 <br>
-<p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=gsmat&show_icons=true&locale=en&layout=compact" alt="gsmat"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gsmat&show_icons=true&locale=en" alt="gsmat"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsmat&" alt="gsmat"/></p>
+<b>🔥 Github Streaks</b>
+        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gsmat&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="KhanbalaRashidov" /></p>
