@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/gismat-huseynov-79aaa9176/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gismat-huseynov-79aaa9176/" height="30" width="40"/></a><a href="https://stackoverflow.com/users/14853869/gismat-husein" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"alt="14834383" height="30"width="40"/></a></p>
-<a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
+<a href="https://github-readme-stats.vercel.app/api?username=gsmat&count_private=true&show_icons=true&theme=chartreuse-dark">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsmat&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
         </a>
         <a href="https://github.com/m0rp43us">
