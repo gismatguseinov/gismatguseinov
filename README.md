@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gismat Guseinov</h1>
-<h3 align="center">I'm a Middle Software and Junior Database Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 
 
 
